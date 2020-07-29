@@ -1,22 +1,25 @@
-[npm] card for Jeswin Jose
+### Hi there 👋
 
-# Usage
+<!--
+**Jeswin17/Jeswin17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Via npx:
+Here are some ideas to get you started:
 
-```bash
-npx jeswin17
-```
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-# Other
+- 🌱 I’m currently learning ... 
+    * Javascript
 
-Idea and trend started by [Tierney (@bitandbang)]
+Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/jeswin) 🌏
 
-To create your own, use [create-my-card].
+[![Jeswin17's github stats](https://github-readme-stats.vercel.app/api?username=Jeswin17&show_icons=true&theme=radical)](https://github.com/Jeswin17/github-readme-stats)
 
-ie: `npm init my-card`
-
-[npm]: https://www.npmjs.com/
-[tierney (@bitandbang)]: https://www.npmjs.com/package/bitandbang
-[create-my-card]: https://www.npmjs.com/package/create-my-card
-
+> Dont count the days ; Make the days count - Muhammad Ali
